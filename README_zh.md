@@ -1,6 +1,6 @@
 # aaPanel Tools
 
-[English](https://github.com/AaronYES/aaPanel/blob/main/README.md)&nbsp;|&nbsp;[简体中文](https://github.com/AaronYES/aaPanel/blob/main/README_zh.md)
+[English](https://github.com/yufeiyohi/aaPanel/blob/main/README.md)&nbsp;|&nbsp;[简体中文](https://github.com/yufeiyohi/aaPanel/blob/main/README_zh.md)
 
 此工具可以在 CentOS/Debian/Ubuntu 客户端上使用，满足自己的一些使用需求。
 
@@ -20,11 +20,11 @@
 
 ### 国外VPS
 ~~~
-wget https://raw.githubusercontent.com/AaronYES/aaPanel/main/script/aapanel.sh  -O aapanel.sh && chmod +x aapanel.sh && clear && ./aapanel.sh
+wget https://raw.githubusercontent.com/yufeiyohi/aaPanel/main/script/aapanel.sh  -O aapanel.sh && chmod +x aapanel.sh && clear && ./aapanel.sh
 ~~~
 ### 国内VPS
 ~~~
-wget https://proxy.mshushu.com.cn/raw.githubusercontent.com/AaronYES/aaPanel/main/script/aapanel.sh  -O aapanel.sh && chmod +x aapanel.sh && clear && ./aapanel.sh
+wget https://proxy.mshushu.com.cn/raw.githubusercontent.com/yufeiyohi/aaPanel/main/script/aapanel.sh  -O aapanel.sh && chmod +x aapanel.sh && clear && ./aapanel.sh
 ~~~
 
 ## 更新日志
